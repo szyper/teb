@@ -5,6 +5,6 @@
     <title>Strona główna</title>
   </head>
   <body>
-    <p>Strona główna</p>
+    <p>Strona główna kurs</p>
   </body>
 </html>
